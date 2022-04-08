@@ -1,4 +1,4 @@
-# aruzhan
+# aruzhan444
 .
 # Program to sort alphabetically the words form a string provided by the user
 
@@ -17,4 +17,5 @@ words.sort()
 
 print("The sorted words ar:")
 for word in words:
+   print(word)
    print(word)
